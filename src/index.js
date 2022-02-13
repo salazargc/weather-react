@@ -8,6 +8,12 @@ function App() {
   return (
     <div className="App">
       <Weather />
+      <small>
+        <a href="https://github.com/salazargc/weather-react" target="blank">
+          Open-source code,
+        </a>
+      </small>
+      <small> by Gabriela Salazar</small>
     </div>
   );
 }

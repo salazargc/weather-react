@@ -8,7 +8,7 @@ export default function Weather() {
     description: "Cloudy",
     humidity: 15,
     wind: 2,
-    temperature: 23
+    temperature: 23,
   };
 
   return (
@@ -35,9 +35,7 @@ export default function Weather() {
           </div>
         </div>
       </form>
-
       <h1>{weatherData.city}</h1>
-
       <div className="row">
         <div className="col-sm-6">
           <ul>
