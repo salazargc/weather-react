@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Weather />
+      <Weather defaultCity="Calgary" />
       <small>
         <a href="https://github.com/salazargc/weather-react" target="blank">
           Open-source code,
