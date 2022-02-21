@@ -9,11 +9,18 @@ function App() {
     <div className="App">
       <Weather defaultCity="Calgary" />
       <small>
+        {" "}
+        This project was coded by Gabriela Salazar and is
         <a href="https://github.com/salazargc/weather-react" target="blank">
-          Open-source code,
+          {" "}
+          Open-source code on GitHub
+        </a>{" "}
+        and
+        <a href="https://github.com/salazargc/weather-react" target="blank">
+          {" "}
+          hosted on Netlify
         </a>
       </small>
-      <small> by Gabriela Salazar</small>
     </div>
   );
 }
