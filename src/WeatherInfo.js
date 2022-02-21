@@ -17,9 +17,9 @@ export default function WEatherInfo(props) {
 
         <div className="col-sm-6">
           <img
-            src="https://openweathermap.org/img/wn/02n@2x.png"
-            alt={props.data.description}
             className="float-right"
+            src={props.data.iconUrl}
+            alt={props.data.description}
           />
         </div>
         <div className="row">
