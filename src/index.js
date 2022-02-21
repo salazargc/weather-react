@@ -16,7 +16,7 @@ function App() {
           Open-source code on GitHub
         </a>{" "}
         and
-        <a href="https://github.com/salazargc/weather-react" target="blank">
+        <a href="https://agitated-pasteur-b50b92.netlify.app/" target="blank">
           {" "}
           hosted on Netlify
         </a>
