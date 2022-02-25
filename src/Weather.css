@@ -8,9 +8,9 @@
   color: black;
   font-size: 40px;
   font-weight: 100;
-  line-height: 29px;
+  line-height: 40px;
   margin: 20px 0 0 0;
-  margin-left: 5px;
+  margin-left: 12px;
 }
 
 .Weather a {
@@ -23,6 +23,7 @@
   font-weight: 100;
   list-style: none;
   line-height: 12px;
+  margin-left: 12px;
 }
 
 .Weather .weather-form {
@@ -33,7 +34,7 @@
 .weather-temperature strong {
   color: rgb(33, 33, 33);
   font-size: 70px;
-  line-height: 1;
+  line-height: 1.5;
   font-weight: 500;
   margin: 5px 26px auto;
 }
@@ -46,5 +47,5 @@
   position: relative;
   line-height: 1;
   top: -38px;
-  right: 30px;
+  right: 25px;
 }
